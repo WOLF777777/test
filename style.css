@@ -6,4 +6,14 @@ h2 {
   color: blue;
 }
 
+h4 {
+  color: black;
+}
+
+.new {
+  font-size: 20px;
+  color: #060229;
+  text-transform: uppercase;
+}
+
 /*# sourceMappingURL=style.css.map */
